@@ -29,9 +29,6 @@
 
 Estudiante de **Ingeniería de Software** en la Universidad Manuela Beltrán con experiencia práctica en **desarrollo backend** (NestJS, Django, .NET), **aseguramiento de calidad** (Postman, JMeter, Playwright, JUnit) e **infraestructura cloud** (AWS, Azure, Railway).
 
-</td>
-<td width="38%" valign="top">
-
 **⚡ En pocas palabras**
 
 - 🏗️ Diseño y Arquitectura del alto nivel
