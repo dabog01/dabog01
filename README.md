@@ -205,6 +205,8 @@ Construcción de un robot SCARA con motores paso a paso y driver TB6560.<br/>
 <!-- ═══════════════════════════ EDUCACIÓN ═══════════════════════════ -->
 ## 🎓 Educación
 
+<div align="center">
+
 <table>
 <tr>
 <td>🎓 <b>Ingeniería de Software</b> — Universidad Manuela Beltrán, Bogotá</td>
@@ -215,6 +217,8 @@ Construcción de un robot SCARA con motores paso a paso y driver TB6560.<br/>
 <td align="right"><sub>2013 — 2019</sub></td>
 </tr>
 </table>
+
+</div>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <div align="center">
