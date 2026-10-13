@@ -1,4 +1,3 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=David%20Alejandro%20Bola%C3%B1os&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20QA&descSize=18&descAlignY=58" width="100%" alt="header"/>
@@ -24,7 +23,6 @@
 
 </div>
 
-<!-- ═══════════════════════════ PERFIL ═══════════════════════════ -->
 ## 👨‍💻 Perfil profesional
 
 <table>
