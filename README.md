@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=David%20Alejandro%20Bola%C3%B1os&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20QA&descSize=18&descAlignY=58" width="100%" alt="header"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=0EA5E9&center=true&vCenter=true&width=620&lines=Desarrollo+Backend+%7C+NestJS+%C2%B7+Django+%C2%B7+.NET;Aseguramiento+de+Calidad+%7C+ISO%2FIEC%2FIEEE+29119;Agentes+de+IA+sobre+WhatsApp+%7C+n8n+%C2%B7+LLMs;Cloud+%26+CI%2FCD+%7C+AWS+%C2%B7+Azure+%C2%B7+GitHub+Actions" alt="Typing SVG"/>
 </a>
@@ -217,16 +215,6 @@ Construcción de un robot SCARA con motores paso a paso y driver TB6560.<br/>
 <td align="right"><sub>2013 — 2019</sub></td>
 </tr>
 </table>
-
-<!-- ═══════════════════════════ ESTADÍSTICAS ═══════════════════════════ -->
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak"/>
-</div>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <div align="center">
