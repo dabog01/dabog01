@@ -29,16 +29,12 @@
 
 Estudiante de **Ingeniería de Software** en la Universidad Manuela Beltrán con experiencia práctica en **desarrollo backend** (NestJS, Django, .NET), **aseguramiento de calidad** (Postman, JMeter, Playwright, JUnit) e **infraestructura cloud** (AWS, Azure, Railway).
 
-Recientemente, en la **Fuerza Aeroespacial Colombiana**, documenté desde el rol de QA el *Sistema de Sobrevuelos de Estado* bajo la norma **ISO/IEC/IEEE 29119** y apoyé el proceso de **CI/CD** (GitLab, GitHub Actions), habilitando integraciones seguras entre sistemas gubernamentales.
-
-🎯 **Busco** una posición junior de desarrollo de software donde aportar en construcción de producto y buenas prácticas de ingeniería.
-
 </td>
 <td width="38%" valign="top">
 
 **⚡ En pocas palabras**
 
-- 🏗️ Arquitectura multi-tenant
+- 🏗️ Diseño y Arquitectura del alto nivel
 - 🧪 QA bajo ISO/IEC/IEEE 29119
 - 🤖 Agentes de IA conversacionales
 - ☁️ Despliegue cloud y CI/CD
