@@ -29,14 +29,11 @@
 
 Estudiante de **Ingeniería de Software** en la Universidad Manuela Beltrán con experiencia práctica en **desarrollo backend** (NestJS, Django, .NET), **aseguramiento de calidad** (Postman, JMeter, Playwright, JUnit) e **infraestructura cloud** (AWS, Azure, Railway).
 
-**⚡ En pocas palabras**
-
-- 🏗️ Diseño y Arquitectura del alto nivel
+- 🏗️ Diseño y Arquitectura de Software
 - 🧪 QA bajo ISO/IEC/IEEE 29119
-- 🤖 Agentes de IA conversacionales
+- 🤖 Agentes de IA
 - ☁️ Despliegue cloud y CI/CD
 - 📄 Documentación técnica y de APIs
-- 🚀 Producto end-to-end como responsable único
 
 </td>
 </tr>
