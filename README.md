@@ -215,8 +215,6 @@ Construcción de un robot SCARA con motores paso a paso y driver TB6560.<br/>
 
 <br/>
 
-<i>“Construyendo software con calidad desde el primer commit.”</i>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
