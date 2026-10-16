@@ -50,7 +50,7 @@ Estudiante de **Ingeniería de Software** en la Universidad Manuela Beltrán con
 
 **Bases de datos & ORM**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase&perline=4" alt="Bases de datos"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase&perline=5" alt="Bases de datos"/>
 <br/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server"/>
 
